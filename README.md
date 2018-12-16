@@ -3,3 +3,4 @@
 ## 第三方库
  - [pyspider](https://github.com/binux/pyspider):爬虫框架
  - [Matplotlib](https://github.com/matplotlib/matplotlib):2D绘图(折线图饼状图等)
+ - [pyquery](https://github.com/gawel/pyquery):python的jquery库
