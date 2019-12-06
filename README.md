@@ -10,3 +10,4 @@
  - [geopandas](https://github.com/geopandas/geopandas):地理信息可视化
  - [folium](https://github.com/python-visualization/folium):地理信息可视化
  - [bokeh](https://github.com/bokeh/bokeh):数据可视化
+ - [paramiko](https://github.com/paramiko/paramiko/):ssh
